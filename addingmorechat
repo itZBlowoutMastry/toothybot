@@ -1,0 +1,3 @@
+ } else
+  if (message.content.startsWith(prefix + "oof")) {
+    message.channel.send("Crap but why oof?");
